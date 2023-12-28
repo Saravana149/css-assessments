@@ -71,7 +71,6 @@ body {
     background-color: lightcoral;
     position: relative;
     margin-top: -10px;
-    /*bottom: 3px;*/
 }
 
 .rest-safe-1{
@@ -104,12 +103,54 @@ body {
     font-weight: 600;
     font-size: 10px;
     color: white;
-    /*color: #e81a1a;*/
     margin-top: -1px;
     margin-left: 5px;
     width: 84px;
-    /*background-color:green;*/
     text-align: center;
     letter-spacing: 3px;
+}
 
+.bali-box{
+    width: 600px;
+    height: 400px;
+    margin: 5px auto;
+    position: relative;
+}
+
+.bali-img{
+    width: 100%;
+    height: 350px;
+    border-radius: 15px;
+}
+
+.bali-title{
+    position: absolute;
+    top: 145px;
+    color: white;
+    left: 140px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.bali-desc{
+    position: absolute;
+    top: 200px;
+    color: white;
+    left: 83px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.bali-explore-btn{
+    background-color: white;
+    color: black;
+    border: none;
+    position: absolute;
+    top: 260px;
+    left: 225px;
+    padding: 10px;
+    border-radius: 25px;
+    width: 140px;
+    height: 40px;
+    font-weight: 600;
 }
