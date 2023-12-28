@@ -1,0 +1,231 @@
+body{
+    font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;;
+}
+.business-box-model {
+    border: none;
+    width: 500px;
+    padding: 100px 50px 130px;
+    margin: 30px auto;
+    background-color: rgb(27,229,146);
+    border-radius: 10px;
+}
+
+.business-dev{
+    font-size: 40px;
+    font-weight: bold;
+    margin: unset;
+}
+
+.ideas-btn{
+    margin-top: 10px;
+    border: none;
+    border-radius: 100px;
+    padding: 12px;
+    width: 260px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.profile-box-model{
+    border: 2px solid rgb(217, 220, 224);
+    width: 500px;
+    padding: 20px 50px;
+    margin: auto;
+    /*border-radius: 10px;*/
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.profile-img{
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    padding: 30px;
+}
+
+.profile-img2{
+    margin-left: 65px;
+    padding-left: 30px;
+}
+
+.profile{
+    font-weight: 700;
+    font-size: 30px;
+    color: rgb(32,33,36);
+    margin: unset;
+
+}
+
+.profile-desc{
+    width: 450px;
+    color: rgb(104,108,112);
+    font-size: 20px;
+    font-weight: 400;
+}
+.see-profile-box-model{
+    border: 2px solid rgb(217,220,224);
+    border-top: none;
+    width: 500px;
+    padding: 10px 50px;
+    margin: -1px auto;
+    font-weight: 700;
+    font-size: 20px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+
+.see-profile{
+    color: blue;
+}
+
+.google-image-box-model{
+    width: 600px;
+    margin: auto;
+}
+
+.google-imge{
+    width: 100%;
+    height: 300px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.glg-desc-box{
+    border: 2px solid lightgray;
+    border-top: none;
+    width: 500px;
+    margin: -1px auto;
+    padding: 8px 50px;
+}
+
+.lock-img {
+    margin-top: 20px;
+    width: 18px;
+    height: 18px;
+    color: rgb(104,108,112);
+}
+
+.subscribe{
+    margin-left: 5px;
+    color: rgb(104,108,112);
+}
+
+.glg-desc{
+    color: rgb(38,39,42);
+    font-size: 32px;
+}
+
+.subs-desc{
+    color: rgb(104,108,112);
+    font-size: 26px;
+}
+
+.view-details-btn{
+    padding: 10px;
+    width: 230px;
+    color: rgb(35,119,233);
+    font-size: 20px;
+    font-weight: 550;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid rgb(104,108,112);
+    cursor: pointer;
+    margin-bottom: 40px;
+}
+
+.flodesk-box-model{
+    /*border: 1px solid red;*/
+    margin: auto;
+    padding: 50px 150px 50px;
+    width: 200px;
+    text-align: center;
+}
+
+.flo-header{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 15px;
+    width: 200px;
+    height: 65px;
+}
+
+.flo-welcome {
+    font-size: 10px;
+    font-weight: 750;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.input-text{
+    width: 100%;
+    padding: 10px;
+    border-radius: 7px;
+    border: 1px solid lightgray;
+    margin: 4px;
+}
+
+.login-btn{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 170px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.not-a-mem{
+    margin-top: 26px;
+    color: rgb(104,108,112);
+    font-size: 10px;
+}
+
+.sign-up-text{
+    color: black;
+    font-weight:600;
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+
+.frgt-pwd{
+    margin-top: -5px;
+    color: black;
+    font-weight:600;
+    text-decoration: underline;
+    font-size: 10px;
+}
+
+.terms-condition{
+    color: rgb(104,108,112);
+    font-size: 8px;
+    margin-bottom: -5px;
+}
+
+.term-pad{
+    margin-top: 26px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
